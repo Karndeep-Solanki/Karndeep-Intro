@@ -37,7 +37,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Karndeep-Solanki&show_icons=true&locale=en" alt="Karndeep-Solanki" /></p><br><br><br><br><br><br><br>zz
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=axxy4&show_icons=true&locale=en" alt="Karndeep-Solanki" /></p><br><br><br><br><br><br><br>zz
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Karndeep-Solanki&" alt="Karndeep-Solanki" /></p>
 

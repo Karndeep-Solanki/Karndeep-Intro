@@ -15,14 +15,16 @@
 
 - 👯 I’m looking to collaborate on **E-Commerce website, GUI Application, Security Apps**
 
-- 👨‍💻 All of my projects are available at [axxy4](axxy4)
+- 👨‍💻 All of my projects are available at [Karndeep-Solanki
+](Karndeep-Solanki
+)
 
-- 📫 How to reach me **nakumakshay7426@gmail.com**
+- 📫 How to reach me **Karndeepsolanki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshay nakum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay nakum" height="30" width="40" /></a>
-<a href="https://instagram.com/a.xxy4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.xxy4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karndeep-solanki-003396191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karndeep-Solanki" height="30" width="40" /></a>
+<a href="https://instagram.com/karan.solanki__777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan.solanki__777" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

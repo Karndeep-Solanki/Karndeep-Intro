@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Full Stack Java Developer**
 
-- 🌱 I’m currently learning **(java, SpringBoot, mysql, Angular, ReactJs)**
+- 🌱 I’m currently learning **(java, SpringBoot, mysql, thymeleaf)**
 
 - 👯 I’m looking to collaborate on **E-Commerce website, GUI Application, Security Apps**
 
@@ -33,11 +33,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/O..!!! Hello "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="O..!!! Hello " /></a></p><br><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=axxy4&show_icons=true&locale=en&layout=compact" alt="axxy4" /></p><br><br><br><br><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karndeep-Solanki&show_icons=true&locale=en&layout=compact" alt="Karndeep-Solanki" /></p><br><br><br><br><br>
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=axxy4&show_icons=true&locale=en" alt="axxy4" /></p><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Karndeep-Solanki&show_icons=true&locale=en" alt="Karndeep-Solanki" /></p><br><br><br><br><br><br><br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=axxy4&" alt="axxy4" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Karndeep-Solanki&" alt="Karndeep-Solanki" /></p>
 

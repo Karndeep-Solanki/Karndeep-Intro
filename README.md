@@ -5,7 +5,7 @@
 
 <p align="center"><img align="center" alt="coding" width="500" src="https://github.com/axxy4/axxy4/blob/main/Nakum1.gif"></p><br><br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axxy4" alt="axxy4" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Karndeep-Solanki" alt="Karndeep-Solanki" /></a> </p>
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Karndeep-Solanki&show_icons=true&locale=en" alt="Karndeep-Solanki" /></p><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Karndeep-Solanki&show_icons=true&locale=en" alt="Karndeep-Solanki" /></p><br><br><br><br><br><br><br>zz
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Karndeep-Solanki&" alt="Karndeep-Solanki" /></p>
 
